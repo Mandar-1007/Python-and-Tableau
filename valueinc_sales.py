@@ -69,7 +69,7 @@ data['Markup'] = round(data['Markup'],2)
 
 my_name = 'Mandar'+' Nadkarni'
 
-my_date = 'Day'+'--'+'Month'+'--'+'Year'
+my_date = 'Day'+'-'+'Month'+'-'+'Year'
 
 #data['Date'] = data['Day']+'-'
 
@@ -84,7 +84,7 @@ year = data['Year'].astype(str)
 
 print(day.dtype)
 
-my_date = day+'--'+data['Month']+'--'+year
+my_date = day+'-'+data['Month']+'-'+year
 
 data['date'] = my_date
 
