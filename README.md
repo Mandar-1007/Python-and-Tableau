@@ -108,7 +108,7 @@ https://finch-groundhog-9245.squarespace.com/s/BlogMe-Logo.png
 
 ![Blue bank](https://github.com/Mandar-1007/Python-and-Tableau/assets/112803135/8c9ce89f-7fb0-4087-9e52-fee6773ebfd1)
 
-**Access the Blue Bank Dashboard** https://public.tableau.com/app/profile/mandar.nadkarni/viz/BlueBank_16992060274190/BlueBankLoan
+**Access the Blue Bank Dashboard:** https://public.tableau.com/app/profile/mandar.nadkarni/viz/BlueBank_16992060274190/BlueBankLoan
 
 
 
@@ -116,4 +116,4 @@ https://finch-groundhog-9245.squarespace.com/s/BlogMe-Logo.png
 
 ![BlogMe News Analysis](https://github.com/Mandar-1007/Python-and-Tableau/assets/112803135/5afd346d-573a-4d9a-97ec-a57b63d32873)
 
-**Access the BlogMe News Analysis Dashboard** https://public.tableau.com/app/profile/mandar.nadkarni/viz/BlogMeNewsAnalysis_16992666127230/BlogMeNewsDashboard
+**Access the BlogMe News Analysis Dashboard:** https://public.tableau.com/app/profile/mandar.nadkarni/viz/BlogMeNewsAnalysis_16992666127230/BlogMeNewsDashboard
