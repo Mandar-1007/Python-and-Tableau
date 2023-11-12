@@ -100,18 +100,20 @@ https://finch-groundhog-9245.squarespace.com/s/BlogMe-Logo.png
 
 ![Value Inc  Sales](https://github.com/Mandar-1007/Python-and-Tableau/assets/112803135/efe20fd3-a216-41c7-9d59-6e8bb97c6590)
 
-**Dashboard at Tableau Public:** https://public.tableau.com/app/profile/mandar.nadkarni/viz/SalesforValueInc__16622853233430/Dashboard1
+**Access the Value Inc. Sales Dashboard:** https://public.tableau.com/app/profile/mandar.nadkarni/viz/SalesforValueInc__16622853233430/Dashboard1
+
 
 
 **Blue Bank Loan Analysis**
 
 ![Blue bank](https://github.com/Mandar-1007/Python-and-Tableau/assets/112803135/8c9ce89f-7fb0-4087-9e52-fee6773ebfd1)
 
-**Dashboard at Tableau Public:** https://public.tableau.com/app/profile/mandar.nadkarni/viz/BlueBank_16992060274190/BlueBankLoan
+**Access the Blue Bank Dashboard** https://public.tableau.com/app/profile/mandar.nadkarni/viz/BlueBank_16992060274190/BlueBankLoan
+
 
 
 **BlogMe News Analysis**
 
 ![BlogMe News Analysis](https://github.com/Mandar-1007/Python-and-Tableau/assets/112803135/5afd346d-573a-4d9a-97ec-a57b63d32873)
 
-**Dashboard at Tableau Public:** https://public.tableau.com/app/profile/mandar.nadkarni/viz/BlogMeNewsAnalysis_16992666127230/BlogMeNewsDashboard
+**Access the BlogMe News Analysis Dashboard** https://public.tableau.com/app/profile/mandar.nadkarni/viz/BlogMeNewsAnalysis_16992666127230/BlogMeNewsDashboard
