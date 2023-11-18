@@ -6,7 +6,7 @@ Data Analysis using Tableau & Python by visualizing the data using Maps, Graphs 
 
 • "Blue Bank" Loan Analysis
 
-• BlogMe Sentiment and Keyword Analysis
+• "BlogMe" Sentiment and Keyword Analysis
 
 The data being used for the first project is in .csv format whereas it is in .json and .xlsx formats for the second & third project's respectively
 
